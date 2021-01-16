@@ -1,4 +1,4 @@
-Simple application to demonstrate statemanagement without Redux in React TypsScript
+Simple application to demonstrate statemanagement without Redux in React TypeScript
 
 # Getting Started with Create React App
 
